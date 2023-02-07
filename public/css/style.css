@@ -8,6 +8,15 @@ p {
   text-align: center;
 }
 
-.fqa-small {
+.fa-small {
   font-size: 16px !important;
+}
+
+.btn-float {
+  /* float: left; */
+  margin-right: 10px;
+}
+
+.btn-editAndDelete{
+  display: flex;
 }
