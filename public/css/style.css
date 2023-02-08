@@ -20,3 +20,16 @@ p {
 .btn-editAndDelete{
   display: flex;
 }
+
+.stories-card-edit{
+  max-height: 40vh;
+  background: burlywood;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.img-small {
+  width: 180px;
+}
